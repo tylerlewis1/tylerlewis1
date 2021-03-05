@@ -9,6 +9,7 @@ About me
 <html>
 <details closed>
 <summary>Stats</summary>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=tylerlewis1&show_icons=true&theme=dark">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylerlewis1&theme=dark">
