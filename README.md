@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C and C++
 - 📫 How to reach me: tyler@lewis.network
 - 👀 Looking for project ideas
+
 About me
 --------
 #### Hi, my name is Tyler Lewis I'm 16 years old. I currently am a 10th grade student in high school. I have 6 years of programming experience, mainly focusing on Java. In my free time I make projects that I will personally use. One example of a personal project that I did was make a bell system for my house so I would not be late to my online classes.
