@@ -1,7 +1,7 @@
 ## Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🌱 I’m currently learning C and C++
-- 📫 How to reach me: tyler@lewis.network
+- 📫 How to reach me: tglewis247@gmail.com
 - 👀 Looking for project ideas
 
 About me
