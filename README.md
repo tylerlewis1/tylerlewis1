@@ -6,7 +6,7 @@
 
 About me
 --------
-#### Hi, my name is Tyler Lewis I'm 18 years old. I currently am a 12th grade student in high school. I have 8 years of programming experience, mainly focusing on Java. In my free time I make projects that I will personally use. One example of a personal project that I did was make a bell system for my house so I would not be late to my online classes.
+#### Hi, my name is Tyler Lewis I'm 18 years old. I currently am a Freshman at UW Lacrosse studying Computer scince. I have 9 years of programming experience, mainly focusing on Java. In my free time I make projects that I will personally use. One example of a personal project that I did was make a bell system for my house so I would not be late to my online classes.
 <html>
 <details closed>
 <summary>Stats</summary>
