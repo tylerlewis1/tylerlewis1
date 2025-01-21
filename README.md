@@ -6,7 +6,7 @@
 
 About me
 --------
-#### Hi, my name is Tyler Lewis I'm 19 years old. I currently am a Freshman at UW Lacrosse studying Computer Scince. I have 9 years of programming experience, mainly focusing on Java. I just began taking CS classes and have been learning more about common conventions.
+#### Hi, my name is Tyler Lewis I'm 20 years old. I currently am a Freshman at UW Lacrosse studying Computer Scince. I have 9 years of programming experience, mainly focusing on Java. I just began taking CS classes and have been learning more about common conventions.
 <html>
 <details closed>
 <summary>Stats</summary>
