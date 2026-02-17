@@ -1,12 +1,12 @@
 ## Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🌱 I’m currently learning C and C++
+- 🌱 Working on random apps that I think are cool
 - 📫 How to reach me: tglewis247@gmail.com
 - 👀 Looking for project ideas
-
+- Check out <a href="https://gptems.com">GPTEMS</a>!!
 About me
 --------
-#### Hi, my name is Tyler Lewis I'm 20 years old. I currently am a Sophomore at UW Lacrosse studying Computer Engineering. I have 9 years of programming experience, mainly focusing on Java. I just began taking CPE classes and have been learning more about common conventions.
+#### Hi, my name is Tyler Lewis I'm 21 years old. I currently am a Junior at UW Lacrosse studying Computer Science. I have 10 years of programming experience, mainly focusing on Java in my earilier days and now manily Java Script. Mostly self taught but have been learning more about common conventions.
 <html>
 <details closed>
 <summary>Stats</summary>
