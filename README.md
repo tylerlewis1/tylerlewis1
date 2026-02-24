@@ -7,7 +7,7 @@
   <br><br>
 About me
 --------
-#### Hi, my name is Tyler Lewis I'm 21 years old. I currently am a Junior at UW Lacrosse studying Computer Science. I have 10 years of programming experience, mainly focusing on Java in my earilier days and now manily Java Script. Mostly self taught but have been learning more about common conventions.
+#### Hi, my name is Tyler Lewis I'm 21 years old. I currently am a Junior at UW Lacrosse studying Computer Science. I have 10 years of programming experience, mainly focusing on Java in my earilier days and now manily Java Script. Mostly self taught but have been learning more about common conventions and next js. 
 <html>
 <details closed>
 <summary>Stats</summary>
