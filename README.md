@@ -8,15 +8,6 @@
 About me
 --------
 #### Hi, my name is Tyler Lewis I'm 21 years old. I currently am a Junior at UW Lacrosse studying Computer Science. I have 10 years of programming experience, mainly focusing on Java in my earilier days and now manily Java Script. Mostly self taught but have been learning more about common conventions and next js. 
-<html>
-<details closed>
-<summary>Stats</summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=tylerlewis1&show_icons=true&theme=dark">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylerlewis1&theme=dark">
-</details>
-</html>
 
 Technologies and tools that I use
 --------
