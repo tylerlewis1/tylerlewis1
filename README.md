@@ -3,7 +3,7 @@
 - 🌱 Working on random apps that I think are cool
 - 📫 How to reach me: tglewis247@gmail.com
 - 👀 Looking for project ideas
-- Check out <a href="https://gptems.com">GPTEMS</a>!!
+- Check out <a href="https://crewareos.com">CrewareOS</a>!!
   <br><br>
 About me
 --------
